@@ -15,6 +15,9 @@
 - Data can be transmitted at longer ranges when compared to WiFi, Bluetooth or ZigBee
 - LoRa -> owned by SemTech
 
+### CSS
+- chirp spread spectrum (CSS) is a spread spectrum technique that uses wideband linear frequency modulated chirp pulses to encode information. A chirp is a sinusoidal signal whose frequency increases or decreases over time.
+- The technique used in LoRa is ‘CHIRP’: Compressed High Intensity Radar Pulse. 
 
 ### Comparison between LoRa and LTE
 Property | LoRa | LTE
@@ -26,14 +29,26 @@ Link Budget | 154 dBM | 130 dBM
 - LoRa alliance = used by companies
 - LorA WAN = connects LoRa with 4G as an Internet - commercially or as a hobby
 
+- Licensed Frequencies: 
+
 ### Resources
 - The Things Network
 - Radiohead
 - Lone Star Tracking
 
+### Modules for Hardware:
+- RA02 SA 1278
+- 
+
 ### Solution 
 - GPS jamming detection
+- 
 
 ### Additional Things we need to know
-- 
-- 
+- Signal Processing
+- LoRacog -> protocol for cognitive radio-based LoRa network
+
+
+### References
+1. https://hz137b.p3cdn1.secureserver.net/wp-content/uploads/2021/04/LA-White-Paper-LoRaWAN-Gateways-1.pdf?time=1678940088
+2. 
